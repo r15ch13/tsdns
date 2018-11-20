@@ -1,5 +1,5 @@
 # tsdns
-A container based on the official [`teamspeak:latest`](https://hub.docker.com/_/teamspeak/) image.
+A tsdns container based on the official [`teamspeak:latest`](https://hub.docker.com/_/teamspeak/) image.
 
 # compose
 ```yaml
